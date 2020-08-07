@@ -4,31 +4,23 @@ A Java Client/Server chatting program for PCs used for chatting or communicating
 
 ## Installations required
 
-Java JDK and JRE
+### Java JDK and JRE
 
-Java JDK and JRE (latest version would be better) are required in order to run our chat
-client.
-
-If you do not have Java JDK or JRE pre-installed in your device, then you could download
-from link provided below :
+If you don't have Java JDK or JRE pre-installed in your device, then you could download from link provided below.
 
 Java JDK 14: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
 Java JRE 8: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 
-Java IDE
+### Java IDE
 
-Although this is not necessary to have in your device, it will be better and easier to run our
-project with the help of an IDE.
-If you do not have any editor which supports the Java language, following are some links to
-famous and commonly used editors for download.
+Although this is not necessary to have in your device, it will be better and easier to run our project with the help of an IDE. If you do not have any editor which supports the Java language, following are some links to famous and commonly used editors for download.
 
 Visual Studio Code: https://code.visualstudio.com/download
 
 Eclipse IDE: https://www.eclipse.org/downloads/
 
 IntelliJ IDE: https://www.jetbrains.com/idea/download/#section=windows
-
 
 ## How to Run?
 
@@ -64,3 +56,5 @@ NPSquare ChatBox.
 8. To send a message, type in your message in the message area, and then to send the
 message, click on “ Send ”.
 9. To quit chatting, click on “ File ”, and then click on “ Quit ”.
+
+Java JDK and JRE(latest version would be better) are required in order to run our chat client. If you do not have Java JDK or JRE pre-installed in your device, then you could download from link provided below:
